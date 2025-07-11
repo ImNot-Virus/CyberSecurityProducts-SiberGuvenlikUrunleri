@@ -9,11 +9,11 @@ Bu proje, siber güvenlik dünyasına ilgi duyanlar ve profesyoneller için öze
 Sitenin ana görünümü ve öne çıkan bazı ürünlerin sergilenmesi:
 
 ### Ana Sayfa Genel Bakış
-![Siber Güvenlik Ürünleri Ana Sayfa](images/anasayfa.png)
+![Siber Güvenlik Ürünleri Ana Sayfa](anasayfa.png)
 *Modern ve temiz tasarımıyla siber güvenlik ürünlerinin genel görünümü.*
 
-### Ürün Detayı Örneği (Flipper Zero)
-![Flipper Zero Ürün Görüntüsü](anasayfa.png)
+### Ürün Detayı Örneği
+![Flipper Zero Ürün Görüntüsü](ornek.png)
 *Popüler Flipper Zero gibi ürünlerin detaylı görsel sunumu ve fiyat bilgisi.*
 
 ---
@@ -44,11 +44,13 @@ Bu projeyi kendi bilgisayarınızda görüntülemek için aşağıdaki adımlar�
 
 1.  Bu GitHub deposunu bilgisayarınıza klonlayın veya zip olarak indirin.
     ```bash
-    git clone [https://github.com/senin_github_kullanici_adın/Depo_Adin.git](https://github.com/senin_github_kullanici_adın/Depo_Adin.git)
+    git clone https://github.com/ImNot-Virus/CyberSecurityProducts-SiberGuvenlikUrunleri.git
+
     ```
 2.  Projenin ana klasörüne gidin:
     ```bash
-    cd Depo_Adin
+    cd CyberSecurityProducts-SiberGuvenlikUrunleri
+
     ```
 3.  `index.html` dosyasını tercih ettiğiniz herhangi bir web tarayıcısında (Google Chrome, Mozilla Firefox, Microsoft Edge vb.) açın.
 

@@ -13,7 +13,7 @@ Sitenin ana görünümü ve öne çıkan bazı ürünlerin sergilenmesi:
 *Modern ve temiz tasarımıyla siber güvenlik ürünlerinin genel görünümü.*
 
 ### Ürün Detayı Örneği (Flipper Zero)
-![Flipper Zero Ürün Görüntüsü](images/flipper_zero.png)
+![Flipper Zero Ürün Görüntüsü](anasayfa.png)
 *Popüler Flipper Zero gibi ürünlerin detaylı görsel sunumu ve fiyat bilgisi.*
 
 ---
